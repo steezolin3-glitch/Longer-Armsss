@@ -1,4 +1,4 @@
-package com.example.longarms;
+package longarms.mod;
 
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.entity.event.v1.ServerPlayerEvents;
